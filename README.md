@@ -224,7 +224,7 @@ Implemented advanced Power BI features:
 
 # 📷 Dashboard Preview
 
-📄 [Sales_Report](Sales_Report.pdf)
+📎 [View Sales Report PDF](Sales_Report.pdf)
 
 ---
 
